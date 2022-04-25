@@ -1,6 +1,6 @@
-## Olá eu sou Igor Cavalera! 👊🙇‍♂️
+## Olá, sou Igor Cavalera! 👊🙇‍♂️
 
-#### Apaixonado por tecnologia, educação e resolver problemas usando a programação no meu dia.
+#### Apaixonado por tecnologia, educação e resolver problemas usando programação no meu dia a dia.
 
 ### Tecnologias que costumo utilizar: 
 <div style="display: inline_block"></br>
